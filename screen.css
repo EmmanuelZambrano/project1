@@ -50,9 +50,16 @@ table {
 body{
 	background: #f9f9f9;
 	text-align: center;
+	line-height: 1.5em;
+	color: #484848;
 }
 #wrapper{
-	width: 100%;
+	width: 65%;
+	margin: auto;
+}
+#heads{
+	margin: auto;
+	padding: 1.5em;
 }
 input, label{
 	display: block;
