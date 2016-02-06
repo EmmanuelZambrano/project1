@@ -52,6 +52,7 @@ body{
 	text-align: center;
 	line-height: 1.5em;
 	color: #484848;
+	font-family: sans-serif;
 }
 #wrapper{
 	width: 65%;
@@ -77,10 +78,6 @@ input, label{
 	display: block;
 	margin: auto;
 	font-size: .875em;
-}
-input{
-
-
 }
 #logo{
 	text-align: center;
