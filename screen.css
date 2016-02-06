@@ -60,11 +60,23 @@ body{
 #heads{
 	width: 70%;
 	margin: auto;
-	padding: 1.5em;
+	padding: 1em;
+}
+h1{
+	font-size: 1.5em;
+	font-weight: 400;
+}
+h2{
+	font-size: 1em;
+}
+h3{
+	font-size: .875em;
+
 }
 input, label{
 	display: block;
 	margin: auto;
+	font-size: .875em;
 }
 input{
 
