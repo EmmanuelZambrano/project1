@@ -50,12 +50,13 @@ table {
 body{
 	background: #f9f9f9;
 	text-align: center;
-	line-height: 1.5em;
+	line-height: 1.675em;
 	color: #484848;
 	font-family: sans-serif;
 }
 #wrapper{
 	width: 65%;
+	padding: 1em;
 	margin: auto;
 }
 #heads{
