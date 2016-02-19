@@ -54,8 +54,8 @@ body{
 	font-family: sans-serif;
 }
 #wrapper{
-	width: 80%;
-	padding: 1em;
+	width: 75%;
+	padding-top: 2em;
 	margin: auto;
 }
 #heads{
@@ -70,9 +70,12 @@ h1{
 }
 h2{
 	font-size: 1em;
+	margin: auto;
+	text-align: center;
 }
 h3{
 	font-size: .875em;
+	margin-left: 0;
 
 }
 input, label{
