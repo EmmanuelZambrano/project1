@@ -54,7 +54,7 @@ body{
 	font-family: 'Roboto', sans-serif;;
 }
 #wrapper{
-	width: 75%;
+	width: 85%;
 	padding-top: 3em;
 	padding-bottom: 3em;
 	margin: auto;
@@ -91,7 +91,7 @@ input{
 	border-radius: .188em;
 	font-size: 100%;
 	padding: .18em;
-	margin-bottom: 1.5em;
+	margin-bottom: .5em;
 }
 input:focus{
 	border: .15em solid #484848;
@@ -104,9 +104,6 @@ input:focus{
 	background: #c9c9c9;
 	-webkit-appearance: none;
 	-moz-appearance: none;
-}
-#email{
-	margin-bottom: .5em;
 }
 label{
 	font-weight:700;
@@ -124,7 +121,8 @@ img{
 p{
 	padding: 0;
 	margin-left: 0;
-	color: #F0D602;
+	color: #484848;
+	font-size: .875em;
 }
 @media (min-width: 700px) { 
 	#wrapper{
