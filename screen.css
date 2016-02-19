@@ -91,6 +91,7 @@ input{
 	border-radius: .188em;
 	font-size: 100%;
 	padding: .18em;
+	margin-bottom: 1.5em;
 }
 input:focus{
 	border: .15em solid #484848;
