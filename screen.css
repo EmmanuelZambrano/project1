@@ -51,7 +51,7 @@ body{
 	background: #f9f9f9;
 	line-height: 2em;
 	color: #484848;
-	font-family: sans-serif;
+	font-family: 'Roboto', sans-serif;;
 }
 #wrapper{
 	width: 75%;
@@ -66,7 +66,7 @@ body{
 }
 h1{
 	font-size: 1.5em;
-	font-weight: 400;
+	font-weight: 700;
 	text-align: center;
 }
 h2{
@@ -75,11 +75,12 @@ h2{
 	text-align: center;
 }
 h3{
-	font-size: .875em;
+	font-size: 1em;
 	margin-left: 0;
-	font-weight: 400;
+	font-weight: 700;
 }
 input, label{
+	font-family: inherit;
 	display: block;
 	margin: auto;
 	font-size: .875em;
@@ -89,6 +90,7 @@ input{
 	border: .15em solid #c9c9c9;
 	border-radius: .188em;
 	font-size: 100%;
+	padding: .18em;
 }
 #submit{
 	width:25%;
@@ -97,7 +99,7 @@ input{
 	background: #c9c9c9;
 }
 label{
-	font-weight:400;
+	font-weight:700;
 	margin-left:0;
 }
 #logo{
