@@ -56,6 +56,7 @@ body{
 #wrapper{
 	width: 75%;
 	padding-top: 2em;
+	padding-bottom: 3em;
 	margin: auto;
 }
 #heads{
@@ -84,15 +85,24 @@ input, label{
 	font-size: .875em;
 	width: 100%;
 }
+input{
+	border: .15em solid #c9c9c9;
+	border-radius: .188em;
+	font-size: 100%;
+}
+#submit{
+	width:25%;
+	margin-left: 0;
+	margin-top: 1em;
+	background: #c9c9c9;
+}
 label{
 	font-weight:400;
 	margin-left:0;
 }
 #logo{
-	margin-top: 1.5em;
 	margin: auto;
 	width: 8em;
-
 }
 img{
 	width: 100%;
