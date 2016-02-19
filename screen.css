@@ -102,6 +102,9 @@ input:focus{
 	margin-left: 0;
 	margin-top: 1em;
 	background: #c9c9c9;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+
 }
 label{
 	font-weight:700;
