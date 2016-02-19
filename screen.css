@@ -97,7 +97,8 @@ input:focus{
 	border: .15em solid #484848;
 }
 #submit{
-	width:25%;
+	border: .05em solid #c9c9c9;
+	width:30%;
 	margin-left: 0;
 	margin-top: 1em;
 	background: #c9c9c9;
